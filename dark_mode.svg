@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="1069px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="860px" height="936px" font-size="14px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -11,81 +11,81 @@ size-adjust: 109%;
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
 .cc {fill: #616e7f;}
-.ascii {font-size: 9px;}
+.ascii {font-size: 7px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1100px" height="1069px" fill="#161b22" rx="15"/>
-<text x="16" y="25" fill="#c9d1d9" class="ascii">
-<tspan x="16" y="25">%%%%%%%%%%%%%%NNNNNNNNNNNNNNNNNNNNNNNNNNNNwwNN%%%%%%%NNN%%%%%%MMM%Nwpppppppppppppppppwwwwwpppppppwwwwp!!ppppppppwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwNNNwNNNN</tspan>
-<tspan x="16" y="36">NN%%%%%%%%%%NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%%%Np!!`''''''`````!pwNN%%M%wppppppppppppppwwwwppppppppppwwpppwwppppppppwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwNNNN</tspan>
-<tspan x="16" y="47">NNNNNNNNNNN%%%NNNNNNNNNNNNNNNNNNNNNNNN%%%w'jlkLWWrrrrnnnrrrLlhhhllj&quot;`p%%wwppppppppppwwwwpppppppppppppppppppppppwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwNNNNNN</tspan>
-<tspan x="16" y="58">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%%%!jLWrrrnnnnnnnnnnnnnnnnnnrrrWWWLh`wwwwwwwwwwwwwwppppppppppppppppppppppppwwwppppwwwwwwwwwwwwwwwwwwwwwNNNNNNNNNww</tspan>
-<tspan x="16" y="69">NNNNNNNNNNNNNNNNNNwwwwwwwwwwwwwwwN%%N!hLrnnnmmmmmmmmmmmmmmnnnnnnnnnnrrrWLl&quot;`pwwwwwwwwwwwwwwwwwppppppppppwwpwwwwwwppppwwwwwwwwwwwwwwwwwwwwwwwwwwwNNNNNN</tspan>
-<tspan x="16" y="80">NNNNNNNNNNNNNNwwwwwwwwwwwwwwwwwwN%Np'hLrnnnmmmmiiiiiiiiimmmmmmmmnnnnnrrrrWLl'pppwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwNNNNNwwNNNNNNNN</tspan>
-<tspan x="16" y="91">NNNNNNNNNNNNNNNwwwwwwwwwwwwwwwN%Np|lLWrnnnmmmiiiiiiiHHiiiiiimmmmmmmnnnnnrrrWkh'!pppppppppppppppppppppppwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwNNNNNNNNNN</tspan>
-<tspan x="16" y="102">NNNNNNNNNNNNNwwwwwwwwwwwwwwwww%w'hkLWrnnnmmmiiiiiiHiiiHHiiiiiimmmmmmmnnnnnrWLkh&quot;`ppp!!!!!!!!!!!!pp!!!!!ppppppppppppppppppppwwwwwwwwwwwwwwwwwwNNNNNNNNN</tspan>
-<tspan x="16" y="113">NNNNNNNwwwwwwwwwwwwwwwwwwwwwN%%p|lkWrnnmmmmiiiHHHHHHHHHHHHiiiiimmmmmmmmnnnnrWLlj`!!!!!!!!!!!!!!!!!!!!!!!!!!!pppppppppppppppppppppppppppwwwwwwwwwwwwwNN</tspan>
-<tspan x="16" y="124">NNNNwwwwwwwwwwwwwwwwwwwwwwww%Nw`jlLrnmmmmmiiiiHHHHHHHHHHiiiiiiimmmmmmmmnnnnrWLkh&quot;`!!!!!!!!!!!!!!!!pp!!!!!!ppp!ppppppppppppppppppppppppppppppwwwwwwwwww</tspan>
-<tspan x="16" y="135">NNwwwwwwwwwwwwwwwwwwwwwwwwpwwp`|hkrnnmmmmiiiiiiiHHHHHHiiiiiiiiimmmmmmmmmmnnrWLklj&quot;`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ppp!!ppppppppppppppppppppwwwwwwwww</tspan>
-<tspan x="16" y="146">wwwwwwwwwwwwwwwwwwwwwwpppppp!``&quot;hLWnmmmiiiiiiiiiiiiHHHHiHiiiiiimmmmmmmmmmmnrWLklh|`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!p!!!!!!!!!pp!pppppppppppppppppwwwwww</tspan>
-<tspan x="16" y="157">wwwwwwwwwwwwwwppppppppppppp!'jlLLWnmmmmiiiiiiiiiiiHHiiiiHHHiiiiimmiiiiimmmnrrWklj&quot;`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ppppppppppppppppwwwwww</tspan>
-<tspan x="16" y="168">wwwwwwwwppppppppppppppppppp!!`jlLWrnmmmiiiiimmmmrWrnmmimnnmmmmiiimmiiiimmnrWWLkhj&quot;`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!p!!!!!!!!!!!pppppppppppppppppppwwww</tspan>
-<tspan x="16" y="179">ppppppppppppppppppppppppppp`|hlkkLrmmmiimmmnWLlhjjhj'!wN%Np`|lrmmmiimmnrLlj|&quot;&quot;````!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!pppppppppppppww</tspan>
-<tspan x="16" y="190">ppppppppppppppppppppp!!!!!p`jkkkLWnmmmmimnWLWLkkWrrWLLLkllkLWWnmmmmmnrWl&quot;!wNNN%%Nwp!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ppppppppppppp</tspan>
-<tspan x="16" y="201">pppppwwNNNNwwwwwwwpppp!&quot;LL&quot;'lLlj|hWnmiiiimmrLLWrWLklj|&quot;&quot;|hlLWrnmmmnrklj|||jhhhhj'!!!!!!!!!!!!!!!!!!!!!`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ppppppppp</tspan>
-<tspan x="16" y="212">wwwwwN%%MMMMMMMMMMMM%!knnmiiimrWLWnmmiiiiimnnrWWWl&quot;``!wp&quot;hlkWnmiiimWh&quot;&quot;jLL|'&quot;|&quot;&quot;''`!```````!````````````````````!!!!!```!``````!!!!!!!!!!!!!!!!!!ppppp</tspan>
-<tspan x="16" y="223">wwwwww%%MMMM%%%%%%%%%!LiiiiiiinrrnmmiiiiHiiimnLLWLk|pN%w`jLrnmmiiimWhjkrmr|`''pp```````````````````````````````````````````````````!!!!!!!!!!!!!!!pppp</tspan>
-<tspan x="16" y="234">ppppww%%MMM%%%%%%%%%%!kmiHHHimnrnnmmiiiiHHHiiiiimmnnrrWWWrnmmmmiiimrkhlkLLkh&quot;'&quot;&quot;||'''````````````'''''''```'''''`````````````````````````````!!!!!!!!!</tspan>
-<tspan x="16" y="245">ppppww%%MMM%%%%%%%%%%!LiHHmnnnnnnnnmmiiiHHHHHHiiiiiiiimmmmmmiiiiiiimWkkkLWLLkkllhj'```````'''''''''''''''''''''''''''''``!ppppppppp!!!!!!!!!````!!!!!!</tspan>
-<tspan x="16" y="256">ppppww%%MM%%%N%%%%%%%`WHimnrmmnnnnmmmiiiiiHHHHHHHHiiiiiHiiiiiiiiiiimrLllkLLLLLLLlj&quot;'''''''''''''''''''''''''''''''''''''!pwwwwwpppppppppppppppppwwwwww</tspan>
-<tspan x="16" y="267">ppppwN%MMMMM%%%%%%NN%p|LmirrnmmmrrnmmmiiiiHHHHHHHHHHHHHHHHiiiimmiiimnWklLWWWLWWLkh&quot;''''''''''''''''''''''''''''''''''''`pN%%%MMMMMMMMMMM%%%%%NNNNwwwww</tspan>
-<tspan x="16" y="278">pppppw%MMMMMMM%%%w!!w%N`LiiinnmmnnnnmmmiiiiHHHHHHHHHHHiiiiimmmmmiiimnWlhLWrrrWWLlj&quot;''''''''''&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;'!w%MM%%MMM%%%%MMM%%%%N%NNNNwpp</tspan>
-<tspan x="16" y="289">ppppww%%%%%%%%%%%%%%%%%`LmiiHHiinnnnmmmmiiiiHHHHHHHiiiiiimrrmmiiHHHiinLkWWrrWWLklj&quot;'''''&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;hnW!MM%%%%%%%MMMMMN!''``!!pwwpp</tspan>
-<tspan x="16" y="300">pp!ppN%%%%%%%%%%%%%%%%%%M!LiiiHimnnnmmmiiiiiiHHHHHiiiiiiiimmmmmmnnmnnWllLrrWWLkl|''&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;||lmW!MM%%%%%%%%%%%%plrrrLkh&quot;!wpp</tspan>
-<tspan x="16" y="311">p!!pwN%%M%%NNNNNNN%%%%NN%%%%%%%p|krnmmiiiiiiiiiHHHiiiiiiiiinkhkLLLlj&quot;&quot;jlLWWWWLlj|&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;||||||||||||||||||||lrL!M%%%%%%%%%%%%%!krrrWLh|!ppp</tspan>
-<tspan x="16" y="322">!!!pwN%%M%%NNNNNNNNNNNNN%%%%%NN!lrnnmmiiiiiiiiiiiiiiiiiiiiimnnmnrrWLlhhlLLWLklj|&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;||||||||||||||||||||||jlWnL!%%%%%%%%%%%%%%!krWLLkj&quot;!ppp</tspan>
-<tspan x="16" y="333">!!!pwN%%%%NNNNNNNNNNNNN%%%%%%NN`krWrnmiiiiiiiiiiiiiiiiimnrnnrnnmnnnWh|hkkkLklh|&quot;&quot;&quot;|||||||||||||||||||||||||||||||||||lnHiL!%%%%%%%%%%%%%N`kWlhklj'!ppp</tspan>
-<tspan x="16" y="344">!!!pwN%%%%NNNNNNNNNNNNNN%%%%%NN`knnnmmiiiiiiiiiiiiiiimmmmiiimmrrnnmnWLWWLkklj||&quot;&quot;||||||||||||||||jjjjjjjjjjjjjjjjjjjjkmHmk!%%%%%%%%%%%%Nw'LWklkl|'!ppp</tspan>
-<tspan x="16" y="355">!!!pN%%%%%NNNNNNNNNNNNNNN%%%%NN!lrmmrrnmmmiiiiiiiiiimmmmmnWLWWLLkh'`!`'|lkklj||||||||||||||j||jjjjjjjjjjjjjjjjjjjjjjjkmirhp%%%%%%%%%%%%N!|LnrWLl|'!ppp</tspan>
-<tspan x="16" y="366">!!!pN%%%%%%NNNNNNNNNNNNN%%%%%%Np&quot;lrmmmnnnmmmiiiiiiiiiiiiiiimnrrrWWWLlhjhlklhj|||||||||||||jjjjjjjjjjjjjjjjjjjjjjjjjjjkmnj!N%%%%%%%%%%%%w`jWnrWLl|'`!pp</tspan>
-<tspan x="16" y="377">!!!pN%%%%%NNNNNNNNNNN%%%%%%%%%%Np&quot;WiiinnrrnnmmmmiiiiiiiiiimmmnWLlllkLLLLklj||||||||jjjj|jjjjjjjjjjjjjjjjhhhhhhhhjjjjjkmW`%%%%%%%%%%%%%%w&quot;lrnrWLl&quot;``!pw</tspan>
-<tspan x="16" y="388">!!!pN%%%%%%NNNNNNNNNNN%%%%%%%%%Nw'WiiiimnnrrrnnmmiiiiiiiiiiiiiimmnnnrWWklhj|||||jjjjjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhjjhhkjp%%%%%%%%%%%%%%p&quot;lWrWLkh'``!pw</tspan>
-<tspan x="16" y="399">!!!pN%%%M%%N%%%%%%%NNN%%%%%%%%%Nw&quot;WiiiiiimnrWWWrnnmmmiiiiiiiiiimmmnrrWLkj|||jjjj|jjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhj&quot;w%%%%%%%%%%%%%%w'hkLlhj&quot;`!``pw</tspan>
-<tspan x="16" y="410">!!!pN%MM%%%%%%%%%%%%%%%%%%%%%%%pjLniiiiiiimmnrrWLLWrnnnnmmmmnnnnnnnrWLh|||jjjjjjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhj'pN%%%%%%%%%%%%%%w`&quot;||&quot;&quot;'`!!``pw</tspan>
-<tspan x="16" y="421">!ppw%MMMM%%%%%%%%%%%%%%%%%%%%%%plrmiiiiiiiiimmnnrWLLkkLWrrrrrrWWWWWLljjjjjjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhhhhh|!w%%%%%%%%%%%%NN%Nwp!!!!!!!!``pw</tspan>
-<tspan x="16" y="432">!ppw%%MM%%%%%%%%%%%%%%%%%%%%%pjLrnmiiiiiiHiiiimmmmnnnrWLlhhj|'`'&quot;|jjjjjjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhj&quot;w%%%%%%%%%%%NNNNNwwwwwp!p!``pw</tspan>
-<tspan x="16" y="443">pppw%MM%%%%%%%%%%%%%%%%%%%%Np'krnmmiiiiiiiiiiiiimmmmmmmnnrWklh|&quot;jjjjjjjjjjjjjjjjjjhhhhhhjjhhhhhhhhhhhhhhhlllhhhhhhhhh|!N%%%%%%%%%%%%NNNNNNNNNwp!!!``pw</tspan>
-<tspan x="16" y="454">pppw%MM%%%%%%%%%%%%%%%%%%pjkWrrnmmiiiiiiiiiiiiiiimmmmmimnrWLlj||jj||jjjjjjjjjjjhhhhhjhhhhhhhhhhhhhhllhhhlllhhhhhhhhhh|pN%%%%%%%%%%%%%%%NNNNNNwp!!!`!pw</tspan>
-<tspan x="16" y="465">ppwN%MMM%%%%%%%%%%%%%Nwww`lrnnmmmmiiiiiiiiiiiiiiiimmmmmmnWLlhjjjhhjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhhhllhhhhhhhhhhhhhhhjj&quot;p%%%%%%%%%%%%%NNNNNNNNNwp!!!!!pw</tspan>
-<tspan x="16" y="476">ppwN%MMM%%%%%%%%NNNNwwppwp&quot;lrmmmmmiiiiiiHiiiiiiiiiimmmnnrWkhjjllhhjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhhlhhhhhhhhhhhhhhhhj&quot;w%%%%%%%%%%%NNNNNNNNNNNw!!!!!pww</tspan>
-<tspan x="16" y="487">pwwN%MMM%%NNNNNwwwNNNNNNw'LmmmiiiiiiiiiiiiiiiiiiiimmmmnrWLLkllllhjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhj|'w%%%%%%%%%%%%%NN%NNNNNNw!!!!!ppw</tspan>
-<tspan x="16" y="498">pwNNNNNNNNNNwNNNNNNNNNwww!jLnmmmiiiiiiiiiiiiiiiiiiimmnnrWWLkklhhjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhj&quot;`N%%%%%%%%%%%%%%%%NNNNNNw!!!!ppww</tspan>
-<tspan x="16" y="509">wwwwNNNN%%NNNNNNNNNNNNNwwwN`LmmmmmmmmiiiiiiiiiiiiiimmmnnrWLLklhhh|pw&quot;jjjjjjjjjhhhhjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhhhhj&quot;`N%%%%%%%%%%%%%%%%%NNNNNwp!!!ppww</tspan>
-<tspan x="16" y="520">%%NNNNNNN%%%%%NNNNNNNNNNwwN`lrnmmmmmmmmmmmiiimmmmmmmmnnrWWLkllkkh&quot;w%%w&quot;jjjjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhjjjjjjj|&quot;!N%%%%%%%%%%%%%%%%%NNNNNwp!!!pwww</tspan>
-<tspan x="16" y="531">NNNNNNN%%%N%%%%%%%%NNNNNNNN!|kWnnnnmmmmmmmmiiimmmnnnnnrrrWLkhlLLl&quot;p%%%%w&quot;jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|'!NM%%%%%%%%%%%%%%%NNNNNNwp!!!pwww</tspan>
-<tspan x="16" y="542">%NNwwNN%%%%%%%%%%%%%%%%NNNNNN!hWrnnnnnnmmmmmmmmnnrrrrrrrnWklLWWLl|pN%%%%%w`&quot;|jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj|'!w%%%%%MMMMMM%%%%%%NNNNNwp!!!pwww</tspan>
-<tspan x="16" y="553">N%%%NNNN%%%%%%%M%%%%%%%%NNNNNNN!lWrrnnnnnnnmmmnnrWrrnnmmnWhhLWLkl|!NN%%%%%%%%w&quot;jj|||j|||||jjjjjjjjjjjjjjj||||||||||&quot;'!pNN%%%%%MMMMMMM%%%NNNNNwpp!!pwww</tspan>
-<tspan x="16" y="564">%%%%%%NN%%%%%%N%%M%%%%%%NNNNNNNp|lkkLWWrnnnnnmnrWLWrnnmnrLllLLLl&quot;!ppNN%%%%%%%%%Np`&quot;|||||||||||||||||||||||||||||||&quot;&quot;'!pwNN%%%%%%%%MM%%%NNNNNwwpp!!pwww</tspan>
+<rect width="860px" height="936px" fill="#161b22" rx="15"/>
+<text x="14" y="21" fill="#c9d1d9" class="ascii">
+<tspan x="14" y="21">%%%%%%%%%%%%%%NNNNNNNNNNNNNNNNNNNNNNNNNNNNwwNN%%%%%%%NNN%%%%%%MMM%Nwpppppppppppppppppwwwwwpppppppw</tspan>
+<tspan x="14" y="30">NN%%%%%%%%%%NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%%%Np!!`''''''`````!pwNN%%M%wppppppppppppppwwwwppppppppp</tspan>
+<tspan x="14" y="39">NNNNNNNNNNN%%%NNNNNNNNNNNNNNNNNNNNNNNN%%%w'jlkLWWrrrrnnnrrrLlhhhllj&quot;`p%%wwppppppppppwwwwpppppppppp</tspan>
+<tspan x="14" y="48">NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%%%!jLWrrrnnnnnnnnnnnnnnnnnnrrrWWWLh`wwwwwwwwwwwwwwppppppppppp</tspan>
+<tspan x="14" y="57">NNNNNNNNNNNNNNNNNNwwwwwwwwwwwwwwwN%%N!hLrnnnmmmmmmmmmmmmmmnnnnnnnnnnrrrWLl&quot;`pwwwwwwwwwwwwwwwwwpppp</tspan>
+<tspan x="14" y="66">NNNNNNNNNNNNNNwwwwwwwwwwwwwwwwwwN%Np'hLrnnnmmmmiiiiiiiiimmmmmmmmnnnnnrrrrWLl'pppwwwwwwwwwwwwwwwwww</tspan>
+<tspan x="14" y="75">NNNNNNNNNNNNNNNwwwwwwwwwwwwwwwN%Np|lLWrnnnmmmiiiiiiiHHiiiiiimmmmmmmnnnnnrrrWkh'!pppppppppppppppppp</tspan>
+<tspan x="14" y="84">NNNNNNNNNNNNNwwwwwwwwwwwwwwwww%w'hkLWrnnnmmmiiiiiiHiiiHHiiiiiimmmmmmmnnnnnrWLkh&quot;`ppp!!!!!!!!!!!!pp</tspan>
+<tspan x="14" y="93">NNNNNNNwwwwwwwwwwwwwwwwwwwwwN%%p|lkWrnnmmmmiiiHHHHHHHHHHHHiiiiimmmmmmmmnnnnrWLlj`!!!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="102">NNNNwwwwwwwwwwwwwwwwwwwwwwww%Nw`jlLrnmmmmmiiiiHHHHHHHHHHiiiiiiimmmmmmmmnnnnrWLkh&quot;`!!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="111">NNwwwwwwwwwwwwwwwwwwwwwwwwpwwp`|hkrnnmmmmiiiiiiiHHHHHHiiiiiiiiimmmmmmmmmmnnrWLklj&quot;`!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="120">wwwwwwwwwwwwwwwwwwwwwwpppppp!``&quot;hLWnmmmiiiiiiiiiiiiHHHHiHiiiiiimmmmmmmmmmmnrWLklh|`!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="129">wwwwwwwwwwwwwwppppppppppppp!'jlLLWnmmmmiiiiiiiiiiiHHiiiiHHHiiiiimmiiiiimmmnrrWklj&quot;`!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="138">wwwwwwwwppppppppppppppppppp!!`jlLWrnmmmiiiiimmmmrWrnmmimnnmmmmiiimmiiiimmnrWWLkhj&quot;`!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="147">ppppppppppppppppppppppppppp`|hlkkLrmmmiimmmnWLlhjjhj'!wN%Np`|lrmmmiimmnrLlj|&quot;&quot;````!!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="156">ppppppppppppppppppppp!!!!!p`jkkkLWnmmmmimnWLWLkkWrrWLLLkllkLWWnmmmmmnrWl&quot;!wNNN%%Nwp!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="165">pppppwwNNNNwwwwwwwpppp!&quot;LL&quot;'lLlj|hWnmiiiimmrLLWrWLklj|&quot;&quot;|hlLWrnmmmnrklj|||jhhhhj'!!!!!!!!!!!!!!!!!</tspan>
+<tspan x="14" y="174">wwwwwN%%MMMMMMMMMMMM%!knnmiiimrWLWnmmiiiiimnnrWWWl&quot;``!wp&quot;hlkWnmiiimWh&quot;&quot;jLL|'&quot;|&quot;&quot;''`!```````!``````</tspan>
+<tspan x="14" y="183">wwwwww%%MMMM%%%%%%%%%!LiiiiiiinrrnmmiiiiHiiimnLLWLk|pN%w`jLrnmmiiimWhjkrmr|`''pp``````````````````</tspan>
+<tspan x="14" y="192">ppppww%%MMM%%%%%%%%%%!kmiHHHimnrnnmmiiiiHHHiiiiimmnnrrWWWrnmmmmiiimrkhlkLLkh&quot;'&quot;&quot;||'''````````````'</tspan>
+<tspan x="14" y="201">ppppww%%MMM%%%%%%%%%%!LiHHmnnnnnnnnmmiiiHHHHHHiiiiiiiimmmmmmiiiiiiimWkkkLWLLkkllhj'```````''''''''</tspan>
+<tspan x="14" y="210">ppppww%%MM%%%N%%%%%%%`WHimnrmmnnnnmmmiiiiiHHHHHHHHiiiiiHiiiiiiiiiiimrLllkLLLLLLLlj&quot;'''''''''''''''</tspan>
+<tspan x="14" y="219">ppppwN%MMMMM%%%%%%NN%p|LmirrnmmmrrnmmmiiiiHHHHHHHHHHHHHHHHiiiimmiiimnWklLWWWLWWLkh&quot;'''''''''''''''</tspan>
+<tspan x="14" y="228">pppppw%MMMMMMM%%%w!!w%N`LiiinnmmnnnnmmmiiiiHHHHHHHHHHHiiiiimmmmmiiimnWlhLWrrrWWLlj&quot;''''''''''&quot;&quot;&quot;&quot;&quot;</tspan>
+<tspan x="14" y="237">ppppww%%%%%%%%%%%%%%%%%`LmiiHHiinnnnmmmmiiiiHHHHHHHiiiiiimrrmmiiHHHiinLkWWrrWWLklj&quot;'''''&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;</tspan>
+<tspan x="14" y="246">pp!ppN%%%%%%%%%%%%%%%%%%M!LiiiHimnnnmmmiiiiiiHHHHHiiiiiiiimmmmmmnnmnnWllLrrWWLkl|''&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;</tspan>
+<tspan x="14" y="255">p!!pwN%%M%%NNNNNNN%%%%NN%%%%%%%p|krnmmiiiiiiiiiHHHiiiiiiiiinkhkLLLlj&quot;&quot;jlLWWWWLlj|&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;</tspan>
+<tspan x="14" y="264">!!!pwN%%M%%NNNNNNNNNNNNN%%%%%NN!lrnnmmiiiiiiiiiiiiiiiiiiiiimnnmnrrWLlhhlLLWLklj|&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;|||</tspan>
+<tspan x="14" y="273">!!!pwN%%%%NNNNNNNNNNNNN%%%%%%NN`krWrnmiiiiiiiiiiiiiiiiimnrnnrnnmnnnWh|hkkkLklh|&quot;&quot;&quot;||||||||||||||||</tspan>
+<tspan x="14" y="282">!!!pwN%%%%NNNNNNNNNNNNNN%%%%%NN`knnnmmiiiiiiiiiiiiiiimmmmiiimmrrnnmnWLWWLkklj||&quot;&quot;||||||||||||||||j</tspan>
+<tspan x="14" y="291">!!!pN%%%%%NNNNNNNNNNNNNNN%%%%NN!lrmmrrnmmmiiiiiiiiiimmmmmnWLWWLLkh'`!`'|lkklj||||||||||||||j||jjjj</tspan>
+<tspan x="14" y="300">!!!pN%%%%%%NNNNNNNNNNNNN%%%%%%Np&quot;lrmmmnnnmmmiiiiiiiiiiiiiiimnrrrWWWLlhjhlklhj|||||||||||||jjjjjjjj</tspan>
+<tspan x="14" y="309">!!!pN%%%%%NNNNNNNNNNN%%%%%%%%%%Np&quot;WiiinnrrnnmmmmiiiiiiiiiimmmnWLlllkLLLLklj||||||||jjjj|jjjjjjjjjj</tspan>
+<tspan x="14" y="318">!!!pN%%%%%%NNNNNNNNNNN%%%%%%%%%Nw'WiiiimnnrrrnnmmiiiiiiiiiiiiiimmnnnrWWklhj|||||jjjjjjjjjjjjjjjjjj</tspan>
+<tspan x="14" y="327">!!!pN%%%M%%N%%%%%%%NNN%%%%%%%%%Nw&quot;WiiiiiimnrWWWrnnmmmiiiiiiiiiimmmnrrWLkj|||jjjj|jjjjjjjjjjjjjhhhh</tspan>
+<tspan x="14" y="336">!!!pN%MM%%%%%%%%%%%%%%%%%%%%%%%pjLniiiiiiimmnrrWLLWrnnnnmmmmnnnnnnnrWLh|||jjjjjjjjjjjjjjjjjjjjhhhh</tspan>
+<tspan x="14" y="345">!ppw%MMMM%%%%%%%%%%%%%%%%%%%%%%plrmiiiiiiiiimmnnrWLLkkLWrrrrrrWWWWWLljjjjjjjjjjjjjjjjjjjjhhhhhhhhh</tspan>
+<tspan x="14" y="354">!ppw%%MM%%%%%%%%%%%%%%%%%%%%%pjLrnmiiiiiiHiiiimmmmnnnrWLlhhj|'`'&quot;|jjjjjjjjjjjjjjjjjjjjhhhhhhhhhhhh</tspan>
+<tspan x="14" y="363">pppw%MM%%%%%%%%%%%%%%%%%%%%Np'krnmmiiiiiiiiiiiiimmmmmmmnnrWklh|&quot;jjjjjjjjjjjjjjjjjjhhhhhhjjhhhhhhhh</tspan>
+<tspan x="14" y="372">pppw%MM%%%%%%%%%%%%%%%%%%pjkWrrnmmiiiiiiiiiiiiiiimmmmmimnrWLlj||jj||jjjjjjjjjjjhhhhhjhhhhhhhhhhhhh</tspan>
+<tspan x="14" y="381">ppwN%MMM%%%%%%%%%%%%%Nwww`lrnnmmmmiiiiiiiiiiiiiiiimmmmmmnWLlhjjjhhjjjjjjjjjjjjjjjhhhhhhhhhhhhhhhhh</tspan>
+<tspan x="14" y="390">ppwN%MMM%%%%%%%%NNNNwwppwp&quot;lrmmmmmiiiiiiHiiiiiiiiiimmmnnrWkhjjllhhjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhh</tspan>
+<tspan x="14" y="399">pwwN%MMM%%NNNNNwwwNNNNNNw'LmmmiiiiiiiiiiiiiiiiiiiimmmmnrWLLkllllhjjjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhh</tspan>
+<tspan x="14" y="408">pwNNNNNNNNNNwNNNNNNNNNwww!jLnmmmiiiiiiiiiiiiiiiiiiimmnnrWWLkklhhjjjjjjjjjjhhhhhhhhhhhhhhhhhhhhhhhh</tspan>
+<tspan x="14" y="417">wwwwNNNN%%NNNNNNNNNNNNNwwwN`LmmmmmmmmiiiiiiiiiiiiiimmmnnrWLLklhhh|pw&quot;jjjjjjjjjhhhhjjjjjjjhhhhhhhhh</tspan>
+<tspan x="14" y="426">%%NNNNNNN%%%%%NNNNNNNNNNwwN`lrnmmmmmmmmmmmiiimmmmmmmmnnrWWLkllkkh&quot;w%%w&quot;jjjjjjjjjjjjjjjjjjhhhhhhhhh</tspan>
+<tspan x="14" y="435">NNNNNNN%%%N%%%%%%%%NNNNNNNN!|kWnnnnmmmmmmmmiiimmmnnnnnrrrWLkhlLLl&quot;p%%%%w&quot;jjjjjjjjjjjjjjjjjjjjjjjjj</tspan>
+<tspan x="14" y="444">%NNwwNN%%%%%%%%%%%%%%%%NNNNNN!hWrnnnnnnmmmmmmmmnnrrrrrrrnWklLWWLl|pN%%%%%w`&quot;|jjjjjjjjjjjjjjjjjjjjj</tspan>
+<tspan x="14" y="453">N%%%NNNN%%%%%%%M%%%%%%%%NNNNNNN!lWrrnnnnnnnmmmnnrWrrnnmmnWhhLWLkl|!NN%%%%%%%%w&quot;jj|||j|||||jjjjjjjj</tspan>
+<tspan x="14" y="462">%%%%%%NN%%%%%%N%%M%%%%%%NNNNNNNp|lkkLWWrnnnnnmnrWLWrnnmnrLllLLLl&quot;!ppNN%%%%%%%%%Np`&quot;|||||||||||||||</tspan>
 </text>
-<text x="16" y="16" fill="#c9d1d9" font-size="15px">
-<tspan x="16" y="593">Manikov Maksim -———————————————————————————————————————————————————-—-</tspan>
-<tspan x="16" y="613" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Kali Linux (Red Hunter)</tspan>
-<tspan x="16" y="633" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">29 years, 3 months, 11 days</tspan>
-<tspan x="16" y="653" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Gazprom</tspan>
-<tspan x="16" y="673" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Программист (главный специалист)</tspan>
-<tspan x="16" y="693" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Cursor, VSCode</tspan>
-<tspan x="16" y="733" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, QML, Rust+React</tspan>
-<tspan x="16" y="753" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">YAML, JSON, Bash, Markdown</tspan>
-<tspan x="16" y="773" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Russian, English</tspan>
-<tspan x="16" y="813" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Пентест, ИБ, вайбкод, обучение ИИ</tspan>
-<tspan x="16" y="833" class="cc">. </tspan><tspan class="key">Hobbies.Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Разработка, автоматизация, боты</tspan>
-<tspan x="16" y="873">- Contact -—————————————————————————————————————————————————————-—-</tspan>
-<tspan x="16" y="893" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">maksumka1997@gmail.com</tspan>
-<tspan x="16" y="913" class="cc">. </tspan><tspan class="key">VK</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">vk.com/syllopt</tspan>
-<tspan x="16" y="933" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">maksum101997</tspan>
-<tspan x="16" y="953" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Saint Petersburg</tspan>
-<tspan x="16" y="993">- GitHub Stats -———————————————————————————————————————————————-—-</tspan>
-<tspan x="16" y="1013" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">20 | Followers: 3</tspan>
-<tspan x="16" y="1033" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">TOPC, spawix-lab, tgbot</tspan>
+<text x="14" y="14" fill="#c9d1d9" font-size="14px">
+<tspan x="14" y="485">Manikov Maksim -—————————————————————————————————————————-—-</tspan>
+<tspan x="14" y="504" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Kali Linux (Red Hunter)</tspan>
+<tspan x="14" y="523" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">29 years, 3 months, 11 days</tspan>
+<tspan x="14" y="542" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Gazprom</tspan>
+<tspan x="14" y="561" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Программист (главный специалист)</tspan>
+<tspan x="14" y="580" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Cursor, VSCode</tspan>
+<tspan x="14" y="618" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, QML, Rust+React</tspan>
+<tspan x="14" y="637" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">YAML, JSON, Bash, Markdown</tspan>
+<tspan x="14" y="656" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Russian, English</tspan>
+<tspan x="14" y="694" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Пентест, ИБ, вайбкод, обучение ИИ</tspan>
+<tspan x="14" y="713" class="cc">. </tspan><tspan class="key">Hobbies.Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Разработка, автоматизация, боты</tspan>
+<tspan x="14" y="751">- Contact -—————————————————————————————————————————-—-</tspan>
+<tspan x="14" y="770" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">maksumka1997@gmail.com</tspan>
+<tspan x="14" y="789" class="cc">. </tspan><tspan class="key">VK</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">vk.com/syllopt</tspan>
+<tspan x="14" y="808" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">maksum101997</tspan>
+<tspan x="14" y="827" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Saint Petersburg</tspan>
+<tspan x="14" y="865">- GitHub Stats -———————————————————————————————-—-</tspan>
+<tspan x="14" y="884" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">20 | Followers: 3</tspan>
+<tspan x="14" y="903" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">TOPC, spawix-lab, tgbot</tspan>
 </text>
 </svg>
