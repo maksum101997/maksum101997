@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#ffffff" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">%%%%%%%%%%%NNNNNNNNNNNNNNNNNNNNNNNNNNNNwwN</tspan>
+<tspan x="15" y="50">NNNNNNNN%%%NNNNNNNNNNNNNNNNNNNNNNNN%%%w'jl</tspan>
+<tspan x="15" y="70">NNNNNNNNNNNNNNNwwwwwwwwwwwwwwwN%%N!hLrnnnm</tspan>
+<tspan x="15" y="90">NNNNNNNNNNNNwwwwwwwwwwwwwwwN%Np|lLWrnnnmmm</tspan>
+<tspan x="15" y="110">NNNNwwwwwwwwwwwwwwwwwwwwwN%%p|lkWrnnmmmmii</tspan>
+<tspan x="15" y="130">wwwwwwwwwwwwwwwwwwwwwwwpwwp`|hkrnnmmmmiiii</tspan>
+<tspan x="15" y="150">wwwwwwwwwwwppppppppppppp!'jlLLWnmmmmiiiiii</tspan>
+<tspan x="15" y="170">pppppppppppppppppppppppp`|hlkkLrmmmiimmmnW</tspan>
+<tspan x="15" y="190">ppwwNNNNwwwwwwwpppp!&quot;LL&quot;'lLlj|hWnmiiiimmrL</tspan>
+<tspan x="15" y="210">www%%MMMM%%%%%%%%%!LiiiiiiinrrnmmiiiiHiiim</tspan>
+<tspan x="15" y="230">pww%%MMM%%%%%%%%%%!LiHHmnnnnnnnnmmiiiHHHHH</tspan>
+<tspan x="15" y="250">pwN%MMMMM%%%%%%NN%p|LmirrnmmmrrnmmmiiiiHHH</tspan>
+<tspan x="15" y="270">pww%%%%%%%%%%%%%%%%%`LmiiHHiinnnnmmmmiiiiH</tspan>
+<tspan x="15" y="290">pwN%%M%%NNNNNNN%%%%NN%%%%%%%p|krnmmiiiiiii</tspan>
+<tspan x="15" y="310">pwN%%%%NNNNNNNNNNNNN%%%%%%NN`krWrnmiiiiiii</tspan>
+<tspan x="15" y="330">pN%%%%%NNNNNNNNNNNNNNN%%%%NN!lrmmrrnmmmiii</tspan>
+<tspan x="15" y="350">pN%%%%%NNNNNNNNNNN%%%%%%%%%%Np&quot;Wiiinnrrnnm</tspan>
+<tspan x="15" y="370">pN%%%M%%N%%%%%%%NNN%%%%%%%%%Nw&quot;WiiiiiimnrW</tspan>
+<tspan x="15" y="390">w%MMMM%%%%%%%%%%%%%%%%%%%%%%plrmiiiiiiiiim</tspan>
+<tspan x="15" y="410">w%MM%%%%%%%%%%%%%%%%%%%%Np'krnmmiiiiiiiiii</tspan>
+<tspan x="15" y="430">N%MMM%%%%%%%%%%%%%Nwww`lrnnmmmmiiiiiiiiiii</tspan>
+<tspan x="15" y="450">N%MMM%%NNNNNwwwNNNNNNw'Lmmmiiiiiiiiiiiiiii</tspan>
+<tspan x="15" y="470">wNNNN%%NNNNNNNNNNNNNwwwN`Lmmmmmmmmiiiiiiii</tspan>
+<tspan x="15" y="490">NNNN%%%N%%%%%%%%NNNNNNNN!|kWnnnnmmmmmmmmii</tspan>
+<tspan x="15" y="510">%NNNN%%%%%%%M%%%%%%%%NNNNNNN!lWrrnnnnnnnmm</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">max@manikov -———————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Kali Linux (Red Hunter)</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">29 years, 3 months, 11 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">spawix-lab</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">DevOps / InfoSec</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Cursor, VSCode</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, QML, Rust+React</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">YAML, JSON, Bash, Markdown</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Russian, English</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">OSINT, pentest, Telegram bots</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Radar sim, monitoring</tspan>
+<tspan x="390" y="310">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">maksum101997</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitLab</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">maksum10</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">ORCID</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">0009-0006-0519-9022</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Saint Petersburg</tspan>
+<tspan x="390" y="430">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">19 | Stars: 31</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">3</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">spawix-lab, TOPC, tgbot</tspan>
+</text>
+</svg>

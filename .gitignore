@@ -1,0 +1,6 @@
+﻿# Ignore build helpers, keep profile assets
+*
+!README.md
+!dark_mode.svg
+!light_mode.svg
+!.gitignore
