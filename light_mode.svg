@@ -14,7 +14,12 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#ffffff" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
+<defs>
+<clipPath id="asciiClip">
+<rect x="15" y="10" width="365" height="510" />
+</clipPath>
+</defs>
+<text x="15" y="30" fill="#24292f" class="ascii" clip-path="url(#asciiClip)">
 <tspan x="15" y="30">,,,,,,, ,-hggggggggggggggggggggggggggg</tspan>
 <tspan x="15" y="50">,,,,,,,, ,-LMggggggggggggggggggggggggg</tspan>
 <tspan x="15" y="70">,  ,,,,,,  *kggggggggggggggggggggggggg</tspan>
@@ -40,25 +45,25 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="470">kmL||hlhhlllkkkLLWWrrnnnmmiiiiiiiHHHHH</tspan>
 <tspan x="15" y="490">k`hllllkkkkkLWWrrrrrnnmmmiiiHHHHHbbbbb</tspan>
 </text>
-<text x="400" y="30" fill="#24292f">
-<tspan x="400" y="30">Manikov Maksim -——————————————————————————————————————-—-</tspan>
-<tspan x="400" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Kali Linux</tspan>
-<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">29 years, 3 months, 11 days</tspan>
-<tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Gazprom</tspan>
-<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Программист (глав. спец.)</tspan>
-<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Cursor, VSCode</tspan>
-<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, QML, Rust+React</tspan>
-<tspan x="400" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">YAML, JSON, Bash, Markdown</tspan>
-<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Russian, English</tspan>
-<tspan x="400" y="250" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Пентест, ИБ, вайбкод, ИИ</tspan>
-<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Hobbies.Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Разработка, автоматизация</tspan>
-<tspan x="400" y="310">- Contact -——————————————————————————————————————-—-</tspan>
-<tspan x="400" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">maksumka1997@gmail.com</tspan>
-<tspan x="400" y="350" class="cc">. </tspan><tspan class="key">VK</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">vk.com/syllopt</tspan>
-<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">maksum101997</tspan>
-<tspan x="400" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Saint Petersburg</tspan>
-<tspan x="400" y="430">- GitHub Stats -—————————————————————————————————-—-</tspan>
-<tspan x="400" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">20 | Followers: 3</tspan>
-<tspan x="400" y="470" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">TOPC, spawix-lab, tgbot</tspan>
+<text x="415" y="30" fill="#24292f">
+<tspan x="415" y="30">Manikov Maksim -——————————————————————————————————————-—-</tspan>
+<tspan x="415" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Kali Linux</tspan>
+<tspan x="415" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">29 years, 3 months, 11 days</tspan>
+<tspan x="415" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Gazprom</tspan>
+<tspan x="415" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Программист (глав. спец.)</tspan>
+<tspan x="415" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Cursor, VSCode</tspan>
+<tspan x="415" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, QML, Rust+React</tspan>
+<tspan x="415" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">YAML, JSON, Bash, Markdown</tspan>
+<tspan x="415" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Russian, English</tspan>
+<tspan x="415" y="250" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Пентест, ИБ, вайбкод, ИИ</tspan>
+<tspan x="415" y="270" class="cc">. </tspan><tspan class="key">Hobbies.Code</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Разработка, автоматизация</tspan>
+<tspan x="415" y="310">- Contact -——————————————————————————————————————-—-</tspan>
+<tspan x="415" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">maksumka1997@gmail.com</tspan>
+<tspan x="415" y="350" class="cc">. </tspan><tspan class="key">VK</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">vk.com/syllopt</tspan>
+<tspan x="415" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">maksum101997</tspan>
+<tspan x="415" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Saint Petersburg</tspan>
+<tspan x="415" y="430">- GitHub Stats -—————————————————————————————————-—-</tspan>
+<tspan x="415" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">20 | Followers: 3</tspan>
+<tspan x="415" y="470" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">TOPC, spawix-lab, tgbot</tspan>
 </text>
 </svg>
